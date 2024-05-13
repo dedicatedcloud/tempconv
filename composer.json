@@ -1,11 +1,10 @@
 {
-    "name": "sj/tempconv",
-    "description": "Temp Convert",
+    "name": "dedicatedcloud/tempconv",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Sj\\Tempconv\\": "src/"
+            "Dedicatedcloud\\Tempconv\\": "src/"
         }
     },
     "require": {}
